@@ -212,6 +212,7 @@ def payfine(request,fineID):
     })
 
 
+
 @login_required(login_url='/student/login/')
 @user_passes_test(lambda u: not u.is_superuser ,login_url='/student/login/')
 def pay_status(request,fineID):
