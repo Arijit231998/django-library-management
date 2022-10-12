@@ -8,7 +8,7 @@ This project is built with :
 
 ## Features of this project:
 
-##### Anyone can
+#####Anyone can
 
 1. see all the books in homepage
 2. search books based on author or name of the book or category of the book
