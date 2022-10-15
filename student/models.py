@@ -7,6 +7,7 @@ class Department(models.Model):
 
     def __str__(self):
         return self.name
+   
     
 class Student(models.Model):
     first_name=models.CharField(max_length=120)
