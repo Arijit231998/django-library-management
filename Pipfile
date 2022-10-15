@@ -23,7 +23,6 @@ sqlparse = "==0.4.1"
 urllib3 = "==1.26.4"
 
 [dev-packages]
-
 [requires]
 python_version = "3.10"
 
